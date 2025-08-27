@@ -1,9 +1,7 @@
-## SQL-DATA-CLEANING-PROJECT
-This is a SQL project focused on data analysis and cleaning for a grocery store dataset from FoodYum, a U.S.- based chain which involves Data cleaning, Price range analysis, Product insights and Data preparation.
+# SQL-DATA-CLEANING-PROJECT
+This is a SQL project focused on data analysis and cleaning for a grocery store dataset from FoodYum, a U.S.- based chain which involves Data cleaning, Price range analysis, Product insights and Data preparation.This project is presented by SQL Practical Exam Project from DataCamp.
 
-SQL Practical Exam Project from DataCamp:
-
-**📌 Project Overview**
+## 📌 Project Overview
 
 This project is part of the Data Analyst Associate Practical Exam (SQL Track) on DataCamp. The task involved analyzing and cleaning a grocery store dataset (products) from FoodYum, a U.S.-based grocery store chain. The analysis ensures the data is clean, accurate, and structured for decision-making around stocking products that meet a wide range of customer needs.
 
@@ -14,9 +12,7 @@ The project covers four main tasks:
 4. Filtering specific product insights for meat and dairy categories.
 ---   
 
-**📊 Dataset Information**
-
-**Column Name	           Criteria**
+## 📊 Dataset Information
 
 **product_id - Unique identifier (no missing values)**.
 
@@ -36,23 +32,19 @@ The project covers four main tasks:
 
 ---
 
-**⚙️ Methods & Queries**
+## ⚙️ Methods & Queries
 
-Task 1: Count Missing year_added Values
-To detect how many products were missing their year_added entry:
+Task 1: Count Missing year_added Values and detect how many products were missing their year_added entry
 --
-Task 2: Data Cleaning Query
-We ensured the dataset followed the provided schema without updating the original table:
+Task 2: We ensured the dataset followed the provided schema without updating the original table
 --
-Task 3: Price Range by Product Type
-To see how product prices vary by category:
+Task 3: Price Range by Product Type,to see how product prices vary by category
 --
 Task 4: Meat & Dairy Products with High Sales
-To analyze sales-driven products:
 --
 ---
 
-**✅ Key Takeaways**
+## ✅ Key Takeaways
 
 - Data cleaning ensured consistency by filling missing values appropriately.
 - Missing year-added values were corrected, critical for temporal analysis.
@@ -61,11 +53,21 @@ To analyze sales-driven products:
 
   ---
 
-**🚀 Tools Used**
+## 🚀 Tools Used
 - DataCamp SQL Workspace
+  
+---
 
-  **License**
-  This repository is 
+ ## 🛠️ License
+
+This project is licensed under the [MIT License](LICENSE).You are free to use, modify, and share this project with proper attribution
+
+---
+
+## 📮 Contact
+
+Hi there! I'm **Okoroh Precious**, also known as **DataByPrecious**, I am a Data Analyst on a mission to share knowledge and project materials.
+  [GitHub Profile](https://github.com/DataByPrecious)  
 
 
 
